@@ -5,3 +5,5 @@ Haiyi Zhou
 
 # student id
 20685454
+
+![Image of history](src/git-history.png)
